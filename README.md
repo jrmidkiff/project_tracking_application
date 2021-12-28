@@ -1,5 +1,5 @@
-#READ ME
-This repository contains information related to a sample version of the Project Tracking Application that I (James Midkiff) created at NT Lakis. This folder contains three things in addition to this READ ME document:
+# READ ME  
+This repository contains information related to a sample version of the Project Tracking Application that I (James Midkiff) created at a previous employer. This folder contains three things in addition to this READ ME document:
 
 1)	Sample Project Tracking Application - This is a Microsoft Access database that uses the same code and functionality as the true Project Tracking Application but contains none of the original and confidential data. 
 2)	Consultants Guide to Project Tracking Application - This is a Microsoft Word document that functions as a User Guide and explains at a high-level how the database works. It describes provides a basic overview of the database, the purpose of each form, and the definitions of the visible fields. 
